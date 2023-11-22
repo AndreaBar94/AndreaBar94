@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my coding skills<br>💬 Ask me about music, games and beer!<br>⚡ Fun fact: 1 year ago i didn't know the difference between JavaScript and Java 
+🔭 I’m currently working on enhancing my coding skills<br>💬 Ask me about music, games and beer!
 
 
 ## 🌐 Socials:
